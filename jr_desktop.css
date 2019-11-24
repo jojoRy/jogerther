@@ -316,16 +316,12 @@ font-weight: 700;
 /* 사람 명수 앞에 그림*/
 #board-info #viewers-area .fa-user:before{
      color: rgba(10,59,84,0);
-    content: url('https://dandegimon.github.io/hyanggether/images/icon.png');
+    content: url('https://github.com/jojoRy/jogerther/blob/master/images/icon.?raw=true');
 }
 
-#board-info #viewers-area #viewers:before {
-content: "찍찍 "; /*오른쪽 상단 사이트 이용자 수 뒷부분*/
-cursor: text;
-}
 
 #board-info #viewers-area #viewers:after {
-    content: " 마리다냥";
+    content: " 켤레";
     cursor: text;
 }
 
@@ -345,9 +341,9 @@ cursor: text;
 border-bottom:none;
 }
 
-/*사향님좋아요표시*/
+/*쪼리좋아요표시*/
 .fa-heart:before {
-     content: url('https://dandegimon.github.io/hyanggether/images/heart.gif');
+     content: url('https://github.com/jojoRy/jogerther/blob/master/images/heart2.gif?raw=true');
     position: relative;
     top: -2px;
     display: inline-block;
