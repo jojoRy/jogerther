@@ -15,7 +15,7 @@ body{
 
 header .row > div:nth-child(1) > a {
     display: block;
-    height: 65px;
+    height: 75px;
     margin-bottom: -20px;
     background: url('https://github.com/jojoRy/jogerther/blob/master/images/logo.png?raw=true') no-repeat;
 }
@@ -354,7 +354,7 @@ header #header-bar #header-menu-left #playgroundDropdown {
     padding-right: 0.7em;
 }
 
-/*사향님프사동그라미*/
+/*프사동그라미*/
 #board-info #board-info-profile-img{
     width: 6.5em;
     height: auto;
