@@ -241,7 +241,7 @@ span.a-badge i.fa.fa-info-circle {
 
 /* 공지사항*/
 #article-list>.article-list-row.notice .fa-info-circle:before {
-    content: url('https://dandegimon.github.io/silgerher/images/notice.gif');
+    content: url('https://github.com/jojoRy/jogerther/blob/master/images/notice.png?raw=true');
 }
 
 /* 인기글 표시*/
